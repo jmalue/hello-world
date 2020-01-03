@@ -6,6 +6,7 @@ public class HelloWorld {
 
 		System.out.println("Hello World!");
 		System.out.println("Happy New Year");
+		System.out.println("Yay 2020");
 		
 	}
 
